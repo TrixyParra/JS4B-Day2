@@ -5,7 +5,7 @@ const p = document.querySelector('p');  // the first paragraph from html
 //inputs[0].value = 100;
 
 const subTotal = inputs[0];  // the first input from html 
-const tipPercentage = inputs[1];  // the secon input from html 
+const tipPercentage = inputs[1];  // the second input from html 
 const total = inputs[2];  // the third input from html 
 const partySize = inputs[3];  // the fourth input from html 
 
